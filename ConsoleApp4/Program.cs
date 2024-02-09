@@ -4,8 +4,8 @@ class Programm
 {
     static void Main()
     {
-        int a = 1;
-        int b = 2;
+        int a = 2;
+        int b = 3;
         Console.WriteLine(a + b);
     }
 }
