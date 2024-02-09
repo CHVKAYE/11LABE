@@ -4,6 +4,8 @@ class Programm
 {
     static void Main()
     {
-        Console.WriteLine("Hello World");
+        int t = 2;
+        int y = 3;
+        Console.WriteLine(y + t);
     }
 }
